@@ -1,0 +1,8 @@
+{
+    "version": "1.6.2",
+    "runtime": ".NET Core 3.1.2",
+    "consumption": {
+        "memory": 251000.0,
+        "cpu": 0.26
+    }
+}
