@@ -1,3 +1,3 @@
 # [Apimundo](https://apimundo.com)
 
-Please provide feedback, requests or issues for the apiverse.io service in this repository.
+Please provide feedback, requests or issues for the Apimundo.com service in this repository.
